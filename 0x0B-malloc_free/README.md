@@ -1,1 +1,0 @@
-Memory dynamic allocation section
